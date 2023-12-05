@@ -1,0 +1,8 @@
+.my-row {
+  margin: 10px 5px;
+}
+
+button {
+  min-width: 100px;
+  float: left;
+}
